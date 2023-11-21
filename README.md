@@ -8,7 +8,7 @@ While the success of Avengers: Endgame is undeniable, Marvel Cinematic Universe 
 
 ## Research Objectives
 
-Building upon the study of Avengers: Endgame, this research will analyze the global geographical distribution of box office earnings, conduct comparisons, and integrate reviews from IMDb and Rotten Tomatoes for the seven films released in Marvel Cinematic Universe's Phase Four. The goal is to provide insights into the market dynamics and critical reception.
+This research will analyze the global geographical distribution of box office earnings, conduct comparisons, and integrate reviews from IMDb and Rotten Tomatoes for the seven films released in Marvel Cinematic Universe's Phase Four. The goal is to provide insights into the market dynamics and critical reception.
 
 ## Data Sources
 
